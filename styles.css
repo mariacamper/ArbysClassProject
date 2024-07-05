@@ -43,7 +43,7 @@ nav {
     border-right: 2px solid gray;
     
 }
-.order {
+#order button {
     background-color: red;
     color: white;
     border: 2px solid red;
@@ -54,7 +54,7 @@ nav {
     font-weight: 700;
     font-family: "Mark Pro", Arial, sans-serif;
 }
-.order:hover {
+#order button:hover {
     background-color:  rgb(183, 19, 19);
     border: 2px solid  rgb(183, 19, 19);;
 }
