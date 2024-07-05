@@ -33,7 +33,7 @@ nav {
     border-bottom: 6px solid white;
 }
     
-#sign {
+.sign {
     float: right;
     color: white;
     text-decoration: none;
@@ -41,8 +41,6 @@ nav {
     font-weight: 700;
     font-family: "Mark Pro", Arial, sans-serif;
     border-right: 2px solid gray;
-   
-   
     
 }
 .order {
