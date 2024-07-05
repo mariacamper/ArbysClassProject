@@ -87,16 +87,18 @@ header a {
     border: 5px double purple;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-between; 
     height: 600px;
     box-shadow: 5px 1px #d1bebe;
-
+}
 
 h3{
     font-family: "Mark Pro", Arial, sans-serif;
     color: #DC0032;
     font-weight: 800;
     margin-top: 30px;
+   /* padding: 0px;
+    margin-bottom: 0px;*/
 }
 h1 {
    font-family: "Mark Pro", Arial, sans-serif;
@@ -112,8 +114,10 @@ h1 {
     
 }
 .exclusive {
-    margin-left: 200px;
+    margin-left: 100px;
 }  
+.rewards #burgerDeal {
+    align-items: center;
 }
 .orderNow {
     background-color: red;
