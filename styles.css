@@ -70,19 +70,17 @@ nav {
 }
 header {
   /* border: 5px dotted red;*/
-    height: 50px;
+    height: 30px;
     font-family: "Mark Pro Bold", "Mark Pro", Arial, sans-serif;
-    color: black;
     background: #ECECEC;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 12px;
-    font-weight: bold;
+    font-size: 13px;
     margin-top: 0px;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
-span a {
+header a {
     color: red;
 }
 .rewards {
