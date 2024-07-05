@@ -32,6 +32,9 @@ nav {
 .search a:hover {
     border-bottom: 6px solid white;
 }
+.search .careers {
+    margin-right: 100px;
+}
     
 .sign {
     float: right;
@@ -40,16 +43,18 @@ nav {
     font-size: 18px;
     font-weight: 700;
     font-family: "Mark Pro", Arial, sans-serif;
-    border-right: 2px solid gray;
+    border-right: 1px solid gray;
+    padding: 10px;
+    
     
 }
 #order button {
     background-color: red;
     color: white;
     border: 2px solid red;
-   /* padding: 15px;
+    padding: 15px;
     margin-right: 60px;
-    margin-left: 40px;*/
+    margin-left: 40px;
     font-size: 12px;
     font-weight: 700;
     font-family: "Mark Pro", Arial, sans-serif;
