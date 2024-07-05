@@ -1,22 +1,21 @@
 body {
     margin: auto 0;
-    padding: auto 0;
+    
 }
 
 
 nav {
-   /* border: 5px solid yellow;*/
+   border: 5px solid yellow;
     height: 90px;
     background-color: black;
-    display: flex;
+    display: flex;     
     align-items: center;
-    justify-content: space-between;
-
-}#logo {
-    margin-left: 40px;
-    
+   
 }
 
+#logo {
+    margin-left: 40px;
+}
 .search a {
     color: white;
     text-decoration: none;
@@ -61,7 +60,7 @@ nav {
 
 }
 header {
-   /* border: 5px dotted red;*/
+   border: 5px dotted red;
     height: 40px;
     font-family: "Mark Pro Bold", "Mark Pro", Arial, sans-serif;
     color: black;
@@ -76,7 +75,7 @@ header a {
     color: red;
 }
 .rewards {
-    /*border: 5px double purple;*/
+    border: 5px double purple;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -124,7 +123,7 @@ h1 {
     border: 2px solid  rgb(183, 19, 19);;
 }
 footer {
-  /*  border: 5px groove blue;*/
+    border: 5px groove blue;
     height: 80px;
     display: flex;
     align-items: center;
