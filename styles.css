@@ -168,3 +168,9 @@ footer {
     background-color:  rgb(183, 19, 19);
     border: 2px solid  rgb(183, 19, 19);;
 }
+span h5 {
+    color: black;
+}
+h5 a {
+    color: red;
+}
